@@ -1,10 +1,3 @@
-/**
- * Created with IntelliJ IDEA.
- * User: Berkling
- * Date: 14.05.14
- * Time: 12:49
- * To change this template use File | Settings | File Templates.
- */
 public class RegularPrice implements Price {
     public int getPriceCode(){
         return Movie.REGULAR;
@@ -19,5 +12,3 @@ public class RegularPrice implements Price {
     }
 
 }
-
-
